@@ -1,0 +1,32 @@
+*   {
+    
+}
+
+body    {
+    width: 960px;
+    margin: 0 auto;
+   
+}
+header  {
+    background-color:#fffccf;
+    border: #ccc 1px;
+}
+
+ul,a  {
+    float:right;
+}
+
+
+h1.logo  {
+    background: #4aaaa5;
+    color: #fffd;
+    width: 160px;
+    height: auto;
+    padding: 20px;
+}
+
+h2  {
+    color:  #4aaaa5;
+
+}
+

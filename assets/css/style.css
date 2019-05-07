@@ -1,32 +1,42 @@
-*   {
+
+
+body    {
+    background: slategrey;
+}
+
+h1 {
+    margin: 0px 231px;
+    padding: 25px 52px;
+    background-color: maroon;
+    float: left;
+}
+
+nav { 
+    /* margin: auto; */
+    background-color: #fff;
+    border: solid #ccc 2px;
+    width: 100%;
+    height: 77px;
+    text-align: center;
+
+}
+
+section     {
+    width: 960px;
+    height: auto;
+}
+
+
+.menu  {
+    background-color: #fff;
+    width: 15%;
+    float: right;
+    padding: 30px 18px;
+    margin: 0px 16%;
     
 }
 
-body    {
-    width: 960px;
-    margin: 0 auto;
-   
-}
-header  {
-    background-color:#fffccf;
-    border: #ccc 1px;
-}
-
-ul,a  {
-    float:right;
-}
-
-
-h1.logo  {
-    background: #4aaaa5;
-    color: #fffd;
-    width: 160px;
-    height: auto;
-    padding: 20px;
-}
-
-h2  {
-    color:  #4aaaa5;
-
-}
-
+    .about-me   {
+        width: 960px;
+        margin: 0 auto;
+    }

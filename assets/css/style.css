@@ -70,13 +70,13 @@ section  {
     width: 960px;
     height: 500px;
     background-color: #fff;
-    border: solid 8px #000;
+    border: solid 1px #000;
 }
 
 /* FOOOTER */
 footer {
     height: 70px;
-    border: solid #000 2px; 
+    border: solid #000 1px; 
     position: fixed;
     left: 0;
     bottom: 0;
@@ -103,7 +103,7 @@ footer {
 }
 .about-me   {
     width: 95%;
-    margin: auto;
+    /* margin: auto; */
     padding: 48px 0px;
     /* background-color: #fff; */    
  }
@@ -112,13 +112,14 @@ footer {
     width: 200px;
     float: left;
     margin: 3px;
-    padding: 3px;
+    padding: 1px;
     border: solid;
     background: black;
  }
 
  p.about {
-     width: 700px;
+     width: 100%;
+     float: left;
 
  }
  .bio-card {

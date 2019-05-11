@@ -93,9 +93,9 @@ footer {
 
 }
 
- .bio-image {
-    width: 150px;
-    
+ img.bio-image {
+    width: 200px;
+    height: 200px;
  }
 
  p.about {
@@ -105,4 +105,22 @@ footer {
  .bio-card {
     width: 950px;
     line-height: 20px;
+ }
+
+ /* FORM */
+ form{
+     margin:12px auto;
+ }
+
+ input {
+    padding: 6px;
+ }
+
+div #name input {
+     
+ }
+
+
+ #textarea {
+    padding: 12px;
  }

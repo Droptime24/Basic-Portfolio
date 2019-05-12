@@ -134,3 +134,26 @@ footer {
  #textarea {
     padding: 12px;
  }
+
+ /* portfolio */
+ 
+ .img1 {
+    float: left;
+    margin: 11px;
+ }
+ .img2 {
+    float: left;
+    margin: 11px;
+ }
+ .img3 {
+    float: left;
+    margin: 11px;
+ }
+ .img4 {
+    float: left;
+    margin: 11px;
+ }
+ .img5 {
+    float: left;
+    margin: 11px;
+ }

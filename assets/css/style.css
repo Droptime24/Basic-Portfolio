@@ -19,7 +19,7 @@ header  {
     justify-content: space-around;
     align-items: center;
     height: 65px;
-    min-width: 100%;
+    width: 100%;
     background-color: #fff;
     border-bottom: solid #cccccc 3px;
     
@@ -164,6 +164,8 @@ footer {
     position: relative;
     margin:5px;
     padding: 2px;
+    width:200px;
+    height:200px;
     
     
 }
@@ -171,24 +173,45 @@ footer {
     position: relative;
     margin:5px;
     padding: 2px;
+    width:200px;
+    height:200px;
 }
 
 .img3{
     position: relative;
     margin:5px;
     padding: 2px;
+    width:200px;
+    height:200px;
 }
 
 .img4{
     position: relative;
     margin:5px;
     padding: 2px;
+    width:200px;
+    height:200px;
 }
-.img4{
+.img5{
     position: relative;
     margin:5px;
     padding: 2px;
+    width:200px;
+    height:200px;
     
 }
 
 
+/* @media screen and (max-width: 980px){
+    .outer-wrapper: 
+    
+}
+
+@media screen and (max-width: 768px){
+body
+nav
+}
+
+@media screen and (max-width: 640px){
+
+} */
